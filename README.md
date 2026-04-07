@@ -31,8 +31,14 @@ Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kube
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojsharma46&show_icons=true&theme=dark)](https://github.com/manojsharma46)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojsharma46&layout=compact&theme=dark)](https://github.com/manojsharma46)
+<p align="center">
+  <a href="https://github.com/manojsharma46">
+    <img src="https://github-readme-stats.vercel.app/api?username=manojsharma46&show_icons=true&theme=radical" height="180"/>
+  </a>
+  <a href="https://github.com/manojsharma46">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojsharma46&layout=compact&theme=radical" height="180"/>
+  </a>
+</p>
 
 ### ⚡ GitHub Activity
 
