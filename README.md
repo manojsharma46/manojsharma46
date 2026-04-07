@@ -1,5 +1,7 @@
 ### Hi there 👋 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Manoj+Sharma" alt="Manoj Sharma" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Manoj+Sharma" alt="I am Manoj Sharma" />
+  </a>
 </p>
 Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kubernetes, Terraform, CI/CD, and Python
 
@@ -17,10 +19,6 @@ Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kube
 - 🔭 Currently working on: Learning Cloud & DevOps tools  
 - 🌱 Learning: Docker, Kubernetes, Terraform, CI/CD, Python  
 - 👯 Looking to collaborate on Cloud & DevOps projects  
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Manoj+Sharma" alt="Manoj Sharma" /></a>
-</p>
 
 <br>
 
