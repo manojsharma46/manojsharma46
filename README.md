@@ -31,8 +31,6 @@ Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kube
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/manojsharma46">
     <img src="https://github-readme-stats.vercel.app/api?username=manojsharma46&show_icons=true&theme=radical" height="180"/>
