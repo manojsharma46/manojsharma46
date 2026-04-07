@@ -31,12 +31,12 @@ Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kube
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsharmamanoj&show_icons=true&theme=dark)](https://github.com/iamsharmamanoj)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsharmamanoj&layout=compact&theme=dark)](https://github.com/iamsharmamanoj)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojsharma46&show_icons=true&theme=dark)](https://github.com/manojsharma46)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojsharma46&layout=compact&theme=dark)](https://github.com/manojsharma46)
 
 ### ⚡ GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsharmamanoj&theme=dark)](https://github.com/iamsharmamanoj)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojsharma46&theme=dark)](https://github.com/manojsharma46)
 
 ### 🚀 Projects Showcase
 
