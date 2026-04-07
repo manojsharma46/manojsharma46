@@ -1,6 +1,7 @@
-# iammanojsharma
+### Hi there 👋 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Manoj+Sharma" alt="Manoj Sharma" /></a>
+</p>
 Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kubernetes, Terraform, CI/CD, and Python
-### Hi there 👋
 
 <h3 align="center">A techie passionate about Cloud & DevOps</h3>
 <h4 align="center">Linux Admin | Learning Cloud & DevOps | Open to Collaboration</h4>
