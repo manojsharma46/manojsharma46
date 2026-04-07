@@ -1,4 +1,4 @@
-# iamsharmamanoj
+# iammanojsharma
 Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kubernetes, Terraform, CI/CD, and Python
 ### Hi there 👋
 
@@ -14,7 +14,7 @@ Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kube
 
 - 😄 Interests: Linux Admin, Cloud & DevOps  
 - 🔭 Currently working on: Learning Cloud & DevOps tools  
-- 🌱 Learning: AWS, Kubernetes, Terraform, CI/CD, Python  
+- 🌱 Learning: Docker, Kubernetes, Terraform, CI/CD, Python  
 - 👯 Looking to collaborate on Cloud & DevOps projects  
 
 <p align="center">
@@ -31,21 +31,18 @@ Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kube
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/iamsharmamanoj"><img src="https://github-readme-stats.vercel.app/api?username=iamsharmamanoj&show_icons=true&theme=dark&count_private=true" height="180px"/></a>
-  <a href="https://github.com/iamsharmamanoj"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsharmamanoj&layout=compact&theme=dark&count_private=true" height="180px"/></a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsharmamanoj&show_icons=true&theme=dark)](https://github.com/iamsharmamanoj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsharmamanoj&layout=compact&theme=dark)](https://github.com/iamsharmamanoj)
 
-### ⚡ Recent GitHub Activity
+### ⚡ GitHub Activity
 
-<!--START_SECTION:activity-->
-[![Manoj's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=iamsharmamanoj&theme=react-dark&hide_border=true)](https://github.com/iamsharmamanoj)
-<!--END_SECTION:activity-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsharmamanoj&theme=dark)](https://github.com/iamsharmamanoj)
 
 ### 🚀 Projects Showcase
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Serverless Image Processor](https://github.com/iamsharmamanoj/serverless-image-processor) | Automatically processes and resizes images uploaded to S3 using AWS Lambda | AWS, Lambda, S3, Python |
-| [K8s Deployment Demo](https://github.com/iamsharmamanoj/k8s-deployment-demo) | Hands-on project deploying apps on Kubernetes clusters | Kubernetes, Docker, Helm |
-| [Terraform Infra Setup](https://github.com/iamsharmamanoj/terraform-infra-setup) | Builds and manages cloud infrastructure with Terraform | Terraform, AWS EC2, VPC |
+Here are some of the cloud and Linux projects I’ve been working on:
+
+- **[VPC with Servers in Private Subnets + NAT using ASG & ALB](https://github.com/iamsharmamanoj/VPC-with-servers-in-private-subnets-and-NAT-using-ASG-ALB)** – Designed a secure, scalable VPC architecture with private subnets, auto-scaling, and load balancing.  
+- **[AWS Security using SG and NACL](https://github.com/iamsharmamanoj/AWS-Security-using-SG-and-NACL)** – Implemented security best practices with Security Groups and Network ACLs.  
+- **[Automated EC2 Backup System using AWS Lambda](https://github.com/iamsharmamanoj/Automated-EC2-Backup-System-using-AWS-Lambda)** – Automated EC2 backups using serverless Lambda functions.  
+- **[Linux Production Server](https://github.com/iamsharmamanoj/linux-production-server)** – Configured and managed a Linux production environment for real-world applications.  
