@@ -25,7 +25,7 @@ Passionate about Cloud &amp; DevOps | Linux Admin | Building skills in AWS, Kube
 ### 💻 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,aws,kubernetes,docker,terraform,python,git" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,CICD,BashScripting,git" />
 </p>
 
 ### ⚡ GitHub Activity
